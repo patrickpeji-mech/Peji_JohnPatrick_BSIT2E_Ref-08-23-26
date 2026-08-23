@@ -1,0 +1,25 @@
+using System;
+
+class newClass3
+{
+	static void Main(string[] args)
+	{
+		string name = "Patrick";
+		Console.WriteLine(name);
+
+		int age = 21;
+		Console.WriteLine(age);
+
+		double april = 20;
+		Console.WriteLine(april);
+
+		bool Totoodamoo = true;
+		Console.WriteLine(Totoodamoo);
+		bool damo = false;
+		Console.WriteLine(damo);
+
+		char letter = 'A';
+		Console.WriteLine(letter);
+	}
+
+}
