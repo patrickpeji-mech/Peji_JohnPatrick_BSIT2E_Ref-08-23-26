@@ -1,0 +1,24 @@
+using System;
+
+class newClass3
+{
+	static void Main(string[] args)
+	{
+		string name = "Patrick";
+		Console.WriteLine(name);
+
+		int age = 21;
+		Console.WriteLine(age);
+
+		double april = 20;
+		Console.WriteLine(april);
+
+		bool damo = false;
+		Console.WriteLine(damo);
+
+		char letter = 'A';
+		Console.WriteLine(letter);
+
+		Console.WriteLine("Hi my name is " + name + ", I am " + age + " years old. I bought a apple for a price of " + april + " per kilo. The name of the store is " + letter + " and is it " + damo + " for selling a high value fruits.");
+	}
+}
